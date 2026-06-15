@@ -37,10 +37,10 @@ Randget is a simple Android budget tracking app that helps users manage their ex
 ---
 
 ## SCREENSHOT PICTURES
-<img width="151" height="275" alt="Screenshot 2026-06-15 182804" src="https://github.com/user-attachments/assets/d4ebf5b0-2b95-4b55-ad86-1291951be094" />
-<img width="134" height="243" alt="Screenshot 2026-06-15 183205" src="https://github.com/user-attachments/assets/2adea203-4a17-4961-af91-bc1d25d53034" />
-<img width="155" height="272" alt="Screenshot 2026-06-15 184256" src="https://github.com/user-attachments/assets/b1b33989-838f-47f3-97e7-4bea2ec620d5" />
-<img width="398" height="313" alt="Screenshot 2026-06-15 192222" src="https://github.com/user-attachments/assets/454fcb6f-1416-4bc3-b107-fbb9621da11d" />
+<img width="154" height="289" alt="randget 11" src="https://github.com/user-attachments/assets/4eadbe32-2683-44e5-a02e-dea90b043328" />
+<img width="136" height="302" alt="randget5" src="https://github.com/user-attachments/assets/0ff8d9b7-03c1-4cc1-83b2-145da34cba53" />
+<img width="143" height="299" alt="randget54" src="https://github.com/user-attachments/assets/95f85c7f-8dcc-4718-be34-d3e17cc45283" />
+
 
 
 
