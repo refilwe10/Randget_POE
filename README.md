@@ -54,5 +54,4 @@ Randget is a simple Android budget tracking app that helps users manage their ex
 Ntembeko Ndayi
 ST10180342
 Refilwe Phore
-ST10458814
-A
+ST10458818
