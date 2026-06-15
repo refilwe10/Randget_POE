@@ -26,11 +26,6 @@ Randget is a simple Android budget tracking app that helps users manage their ex
 
 ---
 
-## Screenshots
-
-
-
----
 
 ##  How to Run
 
